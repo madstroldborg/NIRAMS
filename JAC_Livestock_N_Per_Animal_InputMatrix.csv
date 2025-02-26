@@ -1,0 +1,60 @@
+QID,QDesc,Annual N output (kg/stock unit/year),Default,6,7,9,10,11,12,13,14,15,16,17,18,19,20,25
+316,Barren sows for fattening,17,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+475,Boars being used for service,16,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+474,Gilts 50kg and over to be used for breeding,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+320,Gilts in pig,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+472,Other pigs 110kg and over,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+479,Other pigs 20-50kg,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+478,Other pigs 50-80kg,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+473,Other pigs 80-110kg,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+476,Other pigs under 20kg,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+317,Other sows for breeding,17,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+321,Sows in pig,17,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+477,Total pigs,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+243,Beef cows and heifers in milk,72,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+245,Beef cows in calf but not in milk,72,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+247,Beef heifers 2 years old and over in calf for the first time,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+249,Beef heifers under 2 years old in calf for the first time,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+241,Bulls for service aged between 1 and 2 years old,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+242,Bulls for service aged two years old and over,48,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+244,Dairy cows and heifers in milk,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+246,Dairy cows in calf but not in milk,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+248,Dairy heifers 2 years old and over in calf for the first time,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+250,Dairy heifers under 2 years old in calf for the first time,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+385,Female beef cattle aged 2 years and over for breeding,72,1,1,1,1,1,1,1,1,1,0.33,1,1,1,1,1,1
+381,Female beef cattle for breeding aged between 1 and 2 years,50,1,1,1,1,1,1,1,1,1,0.33,1,1,1,1,1,1
+386,Female cattle aged 2 years and over not for breeding,50,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+392,Female cattle aged between 6 months and 1 year,34,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+185,Female cattle aged under 6 months old,8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+382,Female cattle not for breeding aged between 1 and 2 years,50,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+388,Female dairy cattle aged 2 years and over for breeding,98,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+384,Female dairy cattle for breeding aged between 1 and 2 years,61,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+387,Male cattle aged 2 years and over,50,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+383,Male cattle aged between 1 and 2 years,50,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+391,Male cattle aged between 6 months and 1year,34,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+186,Male cattle aged under 6 months old,8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+183,Total cattle,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+5,Broilers and other table fowls,0.387,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+0,Cocks,0.387,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+278,Ducks,0.905,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2,Females laying eggs to hatch layer chicks,0.48,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,Females laying eggs to hatch table chicks,0.48,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+279,Geese,1.2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+469,Hens in first laying season,0.234,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+470,Moulted hens,0.387,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+4,Other poultry,0.387,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+3,Pullets being reared for laying,0.125,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+452,Turkeys,1.2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+150,Total Poultry,0.54,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+76,Ewes used for breeding in last season,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+319,Lambs,1.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+322,Other sheep aged 1 year and over for breeding,1.2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+324,"Other sheep aged 1 year and over, other",1.2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+323,Rams to be used/expected to be used for service,1.2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+318,"Total sheep, rams and lambs",3.1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+307,Female Goats which have kidded this year or will kid this year,15,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+221,Goats and kids,15,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+308,Other Female Goats which have been used for breeding in previous years,15,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+213,Farmed Deer,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+214,Horses Used in Agriculture,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+215,All Other Horses and Ponies,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1

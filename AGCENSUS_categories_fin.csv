@@ -1,0 +1,204 @@
+AGCENSUS_cat,AGCENSUS_group,AGCENSUS_subclass,QID,QDesc,LU_CODE,Detailed_Class,Summary_Class
+beef-cows-in-calf,cattle,individual,245,Beef cows in calf but not in milk,#N/A,#N/A,#N/A
+beef-cows-in-milk,cattle,individual,243,Beef cows and heifers in milk,#N/A,#N/A,#N/A
+beef-heifers-2-years-and-over,cattle,individual,247,Beef heifers 2 years old and over in calf for the first time,#N/A,#N/A,#N/A
+beef-heifers-under-2-years,cattle,individual,249,Beef heifers under 2 years old in calf for the first time,#N/A,#N/A,#N/A
+bulls-for-service-2-years-and-over,cattle,individual,242,Bulls for service aged two years old and over,#N/A,#N/A,#N/A
+bulls-for-service-under-2-years,cattle,individual,241,Bulls for service aged between 1 and 2 years old,#N/A,#N/A,#N/A
+calves-and-store-cattle-bought-1-to-2-years,cattle,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+calves-and-store-cattle-bought-2-years-and-over,cattle,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+calves-and-store-cattle-bought-6-months-to-1-year,cattle,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+calves-and-store-cattle-bought-under-6-months,cattle,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+calves-and-store-cattle-sold-1-to-2-years,cattle,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+calves-and-store-cattle-sold-2-years-and-over,cattle,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+calves-and-store-cattle-sold-6-months-to-1-year,cattle,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+calves-and-store-cattle-sold-under-6-months,cattle,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+dairy-cows-in-calf,cattle,individual,246,Dairy cows in calf but not in milk,#N/A,#N/A,#N/A
+dairy-cows-in-milk,cattle,individual,244,Dairy cows and heifers in milk,#N/A,#N/A,#N/A
+dairy-heifers-2-years-and-over,cattle,individual,248,Dairy heifers 2 years old and over in calf for the first time,#N/A,#N/A,#N/A
+dairy-heifers-under-2-years,cattle,individual,250,Dairy heifers under 2 years old in calf for the first time,#N/A,#N/A,#N/A
+female-beef-cattle-1-to-2-years,cattle,individual,381,Female beef cattle for breeding aged between 1 and 2 years,#N/A,#N/A,#N/A
+female-beef-cattle-aged-1-2-years,cattle,individual,381,Female beef cattle for breeding aged between 1 and 2 years,#N/A,#N/A,#N/A
+female-beef-cattle-under-1-year,cattle,individual,392,Female cattle aged between 6 months and 1 year,#N/A,#N/A,#N/A
+female-beef-cattle-with-offspring-aged-2-years-and-over,cattle,individual,385,Female beef cattle aged 2 years and over for breeding,#N/A,#N/A,#N/A
+female-beef-cattle-without-offspring-aged-2-years-and-over,cattle,individual,386,Female cattle aged 2 years and over not for breeding,#N/A,#N/A,#N/A
+female-dairy-cattle-1-to-2-years,cattle,individual,384,Female dairy cattle for breeding aged between 1 and 2 years,#N/A,#N/A,#N/A
+female-dairy-cattle-aged-1-2-years,cattle,individual,384,Female dairy cattle for breeding aged between 1 and 2 years,#N/A,#N/A,#N/A
+female-dairy-cattle-under-1-year,cattle,individual,392,Female cattle aged between 6 months and 1 year,#N/A,#N/A,#N/A
+female-dairy-cattle-with-offspring-aged-2-years-and-over,cattle,individual,385,Female beef cattle aged 2 years and over for breeding,#N/A,#N/A,#N/A
+female-dairy-cattle-without-offspring-aged-2-years-and-over,cattle,individual,386,Female cattle aged 2 years and over not for breeding,#N/A,#N/A,#N/A
+male-cattle-1-to-2-years,cattle,individual,383,Male cattle aged between 1 and 2 years,#N/A,#N/A,#N/A
+male-cattle-2-years-and-over,cattle,individual,387,Male cattle aged 2 years and over,#N/A,#N/A,#N/A
+male-cattle-aged-1-2-years,cattle,individual,383,Male cattle aged between 1 and 2 years,#N/A,#N/A,#N/A
+male-cattle-aged-2-years-and-over,cattle,individual,387,Male cattle aged 2 years and over,#N/A,#N/A,#N/A
+male-cattle-under-1-year,cattle,individual,391,Male cattle aged between 6 months and 1year,#N/A,#N/A,#N/A
+other-female-beef-cattle-1-to-2-years,cattle,individual,382,Female cattle not for breeding aged between 1 and 2 years,#N/A,#N/A,#N/A
+other-female-beef-cattle-2-years-and-over,cattle,individual,386,Female cattle aged 2 years and over not for breeding,#N/A,#N/A,#N/A
+other-female-cattle-6-months-to-1-year,cattle,individual,185,Female cattle aged under 6 months old,#N/A,#N/A,#N/A
+other-female-cattle-under-6-months,cattle,individual,185,Female cattle aged under 6 months old,#N/A,#N/A,#N/A
+other-female-dairy-cattle-1-to-2-years,cattle,individual,384,Female dairy cattle for breeding aged between 1 and 2 years,#N/A,#N/A,#N/A
+other-female-dairy-cattle-2-years-and-over,cattle,individual,388,Female dairy cattle aged 2 years and over for breeding,#N/A,#N/A,#N/A
+other-female-non-breeding-cattle-1-to-2-years,cattle,individual,382,Female cattle not for breeding aged between 1 and 2 years,#N/A,#N/A,#N/A
+other-female-non-breeding-cattle-2-years-and-over,cattle,individual,386,Female cattle aged 2 years and over not for breeding,#N/A,#N/A,#N/A
+other-male-cattle-1-to-2-years,cattle,individual,383,Male cattle aged between 1 and 2 years,#N/A,#N/A,#N/A
+other-male-cattle-2-years-and-over,cattle,individual,387,Male cattle aged 2 years and over,#N/A,#N/A,#N/A
+other-male-cattle-6-months-to-1-year,cattle,individual,186,Male cattle aged under 6 months old,#N/A,#N/A,#N/A
+other-male-cattle-under-6-months,cattle,individual,186,Male cattle aged under 6 months old,#N/A,#N/A,#N/A
+total-cattle,cattle,total,183,Total cattle,#N/A,#N/A,#N/A
+aromatic-medicinal-and-culinary-plants,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+bare-fallow,crops-and-fallow,#N/A,#N/A,#N/A,14,Set aside,Arable
+beans-for-combining,crops-and-fallow,#N/A,#N/A,#N/A,12,Vegetables,Arable
+early-potatoes,crops-and-fallow,#N/A,#N/A,#N/A,10,Ware potatoes,Arable
+fallow-land-for-5-years-or-less,crops-and-fallow,#N/A,#N/A,#N/A,14,Set aside,Arable
+fallow-land-for-more-than-5-years,crops-and-fallow,#N/A,#N/A,#N/A,14,Set aside,Arable
+flax,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+fodder-beet,crops-and-fallow,#N/A,#N/A,#N/A,12,Vegetables,Arable
+kale-and-cabbage-for-stockfeeding,crops-and-fallow,#N/A,#N/A,#N/A,12,Vegetables,Arable
+linseed,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+lucerne,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+lupins,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+main-crop-potatoes,crops-and-fallow,#N/A,#N/A,#N/A,10,Ware potatoes,Arable
+mainly-ware-potatoes,crops-and-fallow,#N/A,#N/A,#N/A,10,Ware potatoes,Arable
+maize,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+mixed-grain-for-threshing,crops-and-fallow,#N/A,#N/A,#N/A,8,Winter oats,Arable
+other-crops,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+other-crops-for-stockfeeding,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+other-crops-for-stock-feeding,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+peas-for-combining,crops-and-fallow,#N/A,#N/A,#N/A,12,Vegetables,Arable
+rape-for-stockfeeding,crops-and-fallow,#N/A,#N/A,#N/A,6,Winter oil seed rape,Arable
+rye,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+seed-potatoes,crops-and-fallow,#N/A,#N/A,#N/A,9,Seed potaoes,Arable
+spring-barley-for-combining,crops-and-fallow,#N/A,#N/A,#N/A,1,Spring barley,Arable
+spring-oats,crops-and-fallow,#N/A,#N/A,#N/A,7,Spring oats,Arable
+spring-oilseed-rape,crops-and-fallow,#N/A,#N/A,#N/A,5,Spring oil seed rape,Arable
+total-crops-set-aside-and-fallow,crops-and-fallow,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+triticale-for-combining,crops-and-fallow,#N/A,#N/A,#N/A,4,Winter wheat,Arable
+turnips-and-swedes-for-stockfeeding,crops-and-fallow,#N/A,#N/A,#N/A,12,Vegetables,Arable
+turnips-and-swedes-for-stock-feeding,crops-and-fallow,#N/A,#N/A,#N/A,12,Vegetables,Arable
+unspecified-crops,crops-and-fallow,#N/A,#N/A,#N/A,13,Other arable,Arable
+wheat-for-combining,crops-and-fallow,#N/A,#N/A,#N/A,4,Winter wheat,Arable
+winter-barley-for-combining,crops-and-fallow,#N/A,#N/A,#N/A,2,Winter barley,Arable
+winter-oats-for-combining,crops-and-fallow,#N/A,#N/A,#N/A,8,Winter oats,Arable
+winter-oilseed-rape,crops-and-fallow,#N/A,#N/A,#N/A,6,Winter oil seed rape,Arable
+glasshouses-area-of-which-is-unused,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+glasshouses-glass-structures,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+glasshouses-plastic-structures,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+grass-5-years-and-older,general,#N/A,#N/A,#N/A,16,Improved grassland,Other
+grass-for-grazing-5-years-and-older,general,#N/A,#N/A,#N/A,16,Improved grassland,Other
+grass-for-grazing-less-than-5-years-old,general,#N/A,#N/A,#N/A,16,Improved grassland,Other
+grass-for-mowing-5-years-and-older,general,#N/A,#N/A,#N/A,16,Improved grassland,Other
+grass-for-mowing-less-than-5-years-old,general,#N/A,#N/A,#N/A,16,Improved grassland,Other
+grass-under-5-years-old,general,#N/A,#N/A,#N/A,16,Improved grassland,Other
+lfa-area-of-disadvantaged-land,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+lfa-area-of-severely-disadvantaged-land,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+non-lfa-land,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+other-land,general,#N/A,#N/A,#N/A,27,Other,Other
+owned-area,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+rented-area,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+rough-grazing,general,#N/A,#N/A,#N/A,15,Rough grassland,Other
+seasonal-let,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+seasonal-rented,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+set-aside,general,#N/A,#N/A,#N/A,14,Set aside,Arable
+total-area,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+total-crops-and-grass,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+total-land,general,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+woodland,general,#N/A,#N/A,#N/A,17,Woodland and forest,Other
+all-other-horses,horses,individual,215,All Other Horses and Ponies,#N/A,#N/A,#N/A
+deer,horses,individual,213,Farmed Deer,#N/A,#N/A,#N/A
+donkeys,horses,individual,214,Horses Used in Agriculture,#N/A,#N/A,#N/A
+donkeys-unraised,horses,individual,214,Horses Used in Agriculture,#N/A,#N/A,#N/A
+horses-for-agriculture,horses,individual,214,Horses Used in Agriculture,#N/A,#N/A,#N/A
+horses-used-in-agriculture,horses,individual,214,Horses Used in Agriculture,#N/A,#N/A,#N/A
+total-horses,horses,total,214,Horses Used in Agriculture,#N/A,#N/A,#N/A
+unspecified-livestock,horses,individual,214,Horses Used in Agriculture,#N/A,#N/A,#N/A
+alpacas-unraised,other-livestock,individual,214,Horses Used in Agriculture,#N/A,#N/A,#N/A
+llamas-unraised,other-livestock,individual,214,Horses Used in Agriculture,#N/A,#N/A,#N/A
+other-camelids-unraised,other-livestock,individual,214,Horses Used in Agriculture,#N/A,#N/A,#N/A
+bedding-and-pot-plants,other-plants,#N/A,#N/A,#N/A,13,Other arable,Arable
+bulbs,other-plants,#N/A,#N/A,#N/A,13,Other arable,Arable
+bulbs-and-other-flowers,other-plants,#N/A,#N/A,#N/A,13,Other arable,Arable
+fruit-stocks,other-plants,#N/A,#N/A,#N/A,11,Fruit,Arable
+glasshouses-area-of-which-is-bedding-and-pot-plants,other-plants,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+glasshouses-area-of-which-is-hardy-nursery-stock,other-plants,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+ornamental-trees,other-plants,#N/A,#N/A,#N/A,13,Other arable,Arable
+other-flowers,other-plants,#N/A,#N/A,#N/A,13,Other arable,Arable
+other-nursery-stock,other-plants,#N/A,#N/A,#N/A,11,Fruit,Arable
+roses-and-rose-stocks,other-plants,#N/A,#N/A,#N/A,13,Other arable,Arable
+shrubs,other-plants,#N/A,#N/A,#N/A,21,Grazed woodland,Other
+total-bulbs-flowers-and-nursery-stock,other-plants,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+barren-sows-for-fattening,pigs,individual,316,Barren sows for fattening,#N/A,#N/A,#N/A
+boars-for-service,pigs,individual,475,Boars being used for service,#N/A,#N/A,#N/A
+gilts-50-kg-and-over-expected-to-be-used-for-breeding,pigs,individual,474,Gilts 50kg and over to be used for breeding,#N/A,#N/A,#N/A
+gilts-in-pig,pigs,individual,320,Gilts in pig,#N/A,#N/A,#N/A
+other-pigs-110-kg-and-over,pigs,individual,472,Other pigs 110kg and over,#N/A,#N/A,#N/A
+other-pigs-20-kg-under-50-kg,pigs,individual,479,Other pigs 20-50kg,#N/A,#N/A,#N/A
+other-pigs-20-to-50-kg,pigs,individual,479,Other pigs 20-50kg,#N/A,#N/A,#N/A
+other-pigs-50-kg-under-80-kg,pigs,individual,478,Other pigs 50-80kg,#N/A,#N/A,#N/A
+other-pigs-50-to-80-kg,pigs,individual,478,Other pigs 50-80kg,#N/A,#N/A,#N/A
+other-pigs-80-kg-under-110-kg,pigs,individual,473,Other pigs 80-110kg,#N/A,#N/A,#N/A
+other-pigs-80-to-110-kg,pigs,individual,473,Other pigs 80-110kg,#N/A,#N/A,#N/A
+other-pigs-under-20-kg,pigs,individual,476,Other pigs under 20kg,#N/A,#N/A,#N/A
+other-sows-for-breeding,pigs,individual,317,Other sows for breeding,#N/A,#N/A,#N/A
+sows-in-pig,pigs,individual,321,Sows in pig,#N/A,#N/A,#N/A
+total-pigs,pigs,total,477,Total pigs,#N/A,#N/A,#N/A
+breeding-flock-cocks,poultry,individual,0,Cock,#N/A,#N/A,#N/A
+breeding-flock-layer-chicks,poultry,individual,2,Females laying eggs to hatch layer chicks,#N/A,#N/A,#N/A
+breeding-flock-table-chicks,poultry,individual,1,Females laying eggs to hatch table chicks,#N/A,#N/A,#N/A
+broilers-and-other-table-fowls,poultry,individual,5,Broilers and other table fowls,#N/A,#N/A,#N/A
+ducks,poultry,individual,278,Ducks,#N/A,#N/A,#N/A
+geese,poultry,individual,279,Geese,#N/A,#N/A,#N/A
+laying-flock-hens-in-1st-season,poultry,individual,469,Hens in first laying season,#N/A,#N/A,#N/A
+laying-flock-moulted-hens,poultry,individual,470,Moulted hens,#N/A,#N/A,#N/A
+laying-flock-pullets-for-laying,poultry,individual,3,Pullets being reared for laying,#N/A,#N/A,#N/A
+other-poultry-incl-turkeys,poultry,individual,452,Turkeys,#N/A,#N/A,#N/A
+other-poultry-includes-turkeys-and-guinea-fowl,poultry,individual,452,Turkeys,#N/A,#N/A,#N/A
+other-poultry-including-turkeys,poultry,individual,452,Turkeys,#N/A,#N/A,#N/A
+other-poultry-turkeys-geese-ducks-guinea-fowl,poultry,individual,452,Turkeys,#N/A,#N/A,#N/A
+other-poultry-turkeys-guinea-fowl-etc,poultry,individual,452,Turkeys,#N/A,#N/A,#N/A
+total-poultry,poultry,total,150,Total Poultry,#N/A,#N/A,#N/A
+turkeys,poultry,individual,452,Turkeys,#N/A,#N/A,#N/A
+breeding-ewes,sheep,individual,76,Ewes used for breeding in last season,#N/A,#N/A,#N/A
+female-goats-which-have-kidded,goats,#N/A,221,Goats and kids,#N/A,#N/A,#N/A
+goats-and-kids,goats,total,221,Goats and kids,#N/A,#N/A,#N/A
+lambs,sheep,individual,319,Lambs,#N/A,#N/A,#N/A
+other-breeding-sheep,sheep,individual,322,Other sheep aged 1 year and over for breeding,#N/A,#N/A,#N/A
+other-breeding-sheep-1-year-and-over,sheep,individual,322,Other sheep aged 1 year and over for breeding,#N/A,#N/A,#N/A
+other-female-goats,goats,#N/A,221,Goats and kids,#N/A,#N/A,#N/A
+other-goats,goats,#N/A,221,Goats and kids,#N/A,#N/A,#N/A
+other-non-breeding-sheep-1-year-and-over,sheep,individual,324,"Other sheep aged 1 year and over, other",#N/A,#N/A,#N/A
+rams-for-service,sheep,individual,323,Rams to be used/expected to be used for service,#N/A,#N/A,#N/A
+total-goats,goats,total,221,Goats and kids,#N/A,#N/A,#N/A
+total-sheep,sheep,total,318,"Total sheep, rams and lambs",#N/A,#N/A,#N/A
+blackcurrants,soft-fruit,#N/A,#N/A,#N/A,11,Fruit,Arable
+blueberries,soft-fruit,#N/A,#N/A,#N/A,11,Fruit,Arable
+glasshouses-area-of-which-is-blackcurrants,soft-fruit,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+glasshouses-area-of-which-is-blueberries,soft-fruit,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+glasshouses-area-of-which-is-other-fruit,soft-fruit,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+glasshouses-area-of-which-is-raspberries,soft-fruit,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+glasshouses-area-of-which-is-strawberries,soft-fruit,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+glasshouses-area-of-which-is-tomatoes,soft-fruit,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+mixed-fruit,soft-fruit,#N/A,#N/A,#N/A,11,Fruit,Arable
+orchard-fruit,soft-fruit,#N/A,#N/A,#N/A,11,Fruit,Arable
+raspberries,soft-fruit,#N/A,#N/A,#N/A,11,Fruit,Arable
+soft-fruit,soft-fruit,#N/A,#N/A,#N/A,11,Fruit,Arable
+soft-fruits,soft-fruit,#N/A,#N/A,#N/A,11,Fruit,Arable
+strawberries,soft-fruit,#N/A,#N/A,#N/A,11,Fruit,Arable
+total-soft-fruit,soft-fruit,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+beans-for-canning,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+brussels-sprouts,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+cabbages-all-other,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+cabbages-and-savoys,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+cabbages-summer-and-autumn,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+calabrese,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+carrots,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+cauliflower,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+glasshouses-area-of-which-is-vegetables,vegetables,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+leeks,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+lettuce,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+mixed-vegetables,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+other-vegetables,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+peas-for-canning,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+rhubarb,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+total-vegetables,vegetables,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+turnips-and-swedes,vegetables,#N/A,#N/A,#N/A,12,Vegetables,Arable
+vegetables-for-human-consumption,vegetables,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A

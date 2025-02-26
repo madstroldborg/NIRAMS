@@ -1,0 +1,18 @@
+CRAFTY_INDEX,CRAFTY_LU,Inorg_N_Applied_kgpyr,N_Uptake_kgpyr,PET_Fact
+-1,Unmanaged,0,40,1
+0,Agroforestry,0,20,1.5
+1,Bioenergy,140,115,1.15
+2,Extensive arable,140,115,1.15
+3,Extensive pastoral,0,35,1
+4,Intensive arable (fodder),140,115,1.15
+5,Intensive arable (food),140,115,1.15
+6,Intensive pastoral,59,105,1
+7,Multifunctional mixed woodland,0,20,1.5
+8,Native woodland (conservation),0,20,1.5
+9,Productive native broadleaf,0,20,1.5
+10,Productive native conifer,0,20,1.5
+11,Productive non-native broadleaf,0,20,1.5
+12,Productive non-native conifer,0,20,1.5
+13,Sustainable arable,140,115,1.15
+14,Very extensive pastoral,0,40,1
+15,Urban,0,0,0.92

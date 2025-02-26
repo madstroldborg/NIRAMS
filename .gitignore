@@ -1,0 +1,27 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore all RData files
+*.RData
+
+# Ignore the following folders
+Comparison/
+NIRAMS model in R/
+Old stuff/
+Process results/
+Processed/
+Processed_RData/
+Results/
+
+# Ignore files
+gadm36_GBR_1_sp.rds
+Compare_NIRAMS_input_files.xlsx
+EDINA_NAMES_upd.txt
+
+check_inputs.R
+check-spatial-grids-mar2023.R
+compare_input_files.R
+view_inputs.R
+view_results.R

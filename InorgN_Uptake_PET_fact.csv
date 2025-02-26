@@ -1,0 +1,29 @@
+LU_Code,Detailed_Class,Broad_Class,Inorg_N_Applied_kgpyr,N_Uptake_kgpyr,PET_Fact
+1,Spring barley,Arable,130,110,1.15
+2,Winter barley,Arable,180,140,1.15
+3,Spring wheat,Arable,150,110,1.15
+4,Winter wheat,Arable,200,170,1.15
+5,Spring oil seed rape,Arable,130,100,1.15
+6,Winter oil seed rape,Arable,190,130,1.15
+7,Spring oats,Arable,120,105,1.15
+8,Winter oats,Arable,140,120,1.15
+9,Seed potaoes,Arable,90,100,1.15
+10,Ware potatoes,Arable,110,130,1.15
+11,Fruit,Arable,120,100,1.05
+12,Vegetables,Arable,100,75,1.05
+13,Other arable,Arable,130,100,1.15
+14,Set aside,Arable,0,20,1.15
+15,Rough grassland,Rough grassland,0,35,1
+16,Improved grassland,Improved grassland,59,105,1
+17,Woodland and forest,Woodland and forest,0,20,1.5
+18,Short rotation coppice,Woodland and forest,50,90,1.5
+19,Bare and built up,Bare and built up,0,0,0.92
+20,Water,Water,0,0,0.95
+21,Grazed woodland,Woodland and forest,0,20,1.5
+22,"Fen, marsh and swamp","Fen, marsh and swamp",0,100,1
+23,Heathland,Heathland,0,20,1
+24,Bog,Bog,0,100,1
+25,Montane,Montane,0,20,1
+26,Saltmarsh,Saltmarsh,0,100,1
+27,Other,Other,0,0,1
+28,None,LCM2007 arable,130,100,1.15
