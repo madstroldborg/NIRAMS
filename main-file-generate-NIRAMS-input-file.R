@@ -26,6 +26,7 @@ library(stringr) # used for reading and loading agcensus files
 # PATHS
 # -------------------------------------------------------------------------- #
 
+
 # Path to input files
 path_to_inputs <- "C:/Users/mt40375/Documents/NIRAMS/input-files/"
 
