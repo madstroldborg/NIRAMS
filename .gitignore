@@ -5,8 +5,10 @@
 
 # Ignore all RData files
 *.RData
+# Ignore large temporary RData files
 .RDataTmp
 .RDataTmp1
+
 
 # Ignore the following folders
 Comparison/
