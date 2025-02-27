@@ -10,4 +10,16 @@ The model is coded in Python and can be found [here](https://github.com/JamesSam
 
 ## Deriving input files for NIRAMS
 
-This repository contains R scripts for processing all the necessary input data and deriving the required input HDF5 file for NIRAMS. To run the NIRAMS II model directly, the user must first obtain the input HDF5 file containing gridded datasets of meterological time series, soil properites and agricultural activities. Unfortunatey this file cannot be made freely available, as several of the datasets included in it were obtained under a license that precludes redistribution.
+This repository contains R scripts for processing input data and deriving the required input HDF5 file for NIRAMS. To run the NIRAMS II model, the user must first obtain such input HDF5 file containing gridded datasets of meterological time series, soil properites and agricultural activities. Unfortunatey, this file cannot be made freely available, as several of the datasets included in it were obtained under a license that precludes redistribution.
+
+NIRAMS II makes use of the following spatial input datasets:
+* Climate grids from the UK Met Office [HadUK-Grid](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/haduk-grid), with potential evapotranspiration estimated using the [FAO56 modified Penman-Monteith methodology](https://www.fao.org/4/x0490e/x0490e00.htm) 
+* Soil properties from the [Hydrology of Soil Types (HOST) database](https://nora.nerc.ac.uk/id/eprint/7369/)
+* Crop type, land use and livestock data from [EDINA AgCensus the Scottish](https://agcensus.edina.ac.uk/)
+* Land cover data from [UKCEH Land Cover Maps (LCM)](https://www.ceh.ac.uk/data/ukceh-land-cover-maps)
+* Atmospheric deposition estimates from the [European Monitoring and Evaluation Programme (EMEP)](https://www.emep.int/)
+
+The AgCensus data are used (together with LCM) to derive annual estimates of organic and inorganic nitrogen inputs as well as nitrogen plant uptake. AgCensus contain gridded data (at 2 km resolution) on the distribution of land uses/crop types as well as the number, age, and type of livestock. The amount of organic nitrogen excreted annually by each animal class was taken from manure planning documentation issued to farmers within Scotland's NVZs. Annual estimates for the application rate of inorganic nitrogen fertiliser are informed by the results of the British Survey of Fertiliser Practice. The annual estimates of organic and inorganic nitrogen application as well as of nitrogen uptake are distributed spatially at 1 km resolution based on appropriate land classes from LCM. These annual estimates are then distributed temporally using a set of idealised time series that define, for a variety of crop classes, the length of the growing season, the amount of nitrogen uptake and the timing of fertiliser application (see details in Model documentation above). 
+
+Note that previous versions of NIRAMS (before 2013) used field-scale land use and crop data from IACS and business-scale data on livestock from June Agricultural Census (JAC) to derive the annual estimates of organic N, inorganic N, and N uptake. This part has since been replaced with AgCensus data, partly because of ease (the AgCensus data are already gridded and include detailed information on both crops and livestock numbers) and partly because of issues with accessibility to IACS data. 
+
