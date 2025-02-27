@@ -2,9 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
+.gitignore
 
 # Ignore all RData files
 *.RData
+
 # Ignore large temporary RData files
 .RDataTmp
 .RDataTmp1
@@ -28,4 +30,6 @@ check-spatial-grids-mar2023.R
 compare_input_files.R
 view_inputs.R
 view_results.R
+NIRAMS.Rproj
 path/to/large_file
+
