@@ -5,6 +5,8 @@
 
 # Ignore all RData files
 *.RData
+.RDataTmp
+.RDataTmp1
 
 # Ignore the following folders
 Comparison/
@@ -19,7 +21,6 @@ Results/
 gadm36_GBR_1_sp.rds
 Compare_NIRAMS_input_files.xlsx
 EDINA_NAMES_upd.txt
-
 check_inputs.R
 check-spatial-grids-mar2023.R
 compare_input_files.R
