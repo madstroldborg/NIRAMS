@@ -28,7 +28,9 @@
 ##   dimensions : 715, 485, 346775  (nrow, ncol, ncell)
 ##   resolution : 1000, 1000  (x, y)
 ##   extent     : 0, 485000, 520000, 1235000  (xmin, xmax, ymin, ymax)
-
+##
+## The AgCensus data can be downloaded from https://digimap.edina.ac.uk/agcensus
+## but require a license. 
 
 get.agcensus.data <- function(dir.path, st.yr=2010, end.yr=2019, nirams.grid) {
   # INPUT:
