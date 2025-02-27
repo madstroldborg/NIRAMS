@@ -26,3 +26,4 @@ check-spatial-grids-mar2023.R
 compare_input_files.R
 view_inputs.R
 view_results.R
+path/to/large_file
