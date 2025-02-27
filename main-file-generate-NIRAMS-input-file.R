@@ -26,7 +26,6 @@ library(stringr) # used for reading and loading agcensus files
 # PATHS
 # -------------------------------------------------------------------------- #
 
-
 # Path to input files
 path_to_inputs <- "C:/Users/mt40375/Documents/NIRAMS/input-files/"
 
@@ -39,7 +38,7 @@ source("prepare-agcensus-data.R")
 source("prepare-LCM-data.R")
 source("process-land-use-inputs-for-NIRAMS-functions.R")  
 
-meta <- read.csv("H5-naming-conventions2.csv")
+meta <- read.csv("H5-naming-conventions.csv")
 h5filename <- "Processed//nirams-inputs-2023.h5"
 
 
